@@ -12,4 +12,4 @@ Simple as.
 $ dotnet run
 ```
 
-![Wordle console app](wordle-console-app.png)
+[![Wordle console app](wordle-console-app.png)](https://drive.google.com/file/d/1c2zCbcFVEvkOF6GmKi4GCrR5UnPPmzKL/view?usp=sharing)
